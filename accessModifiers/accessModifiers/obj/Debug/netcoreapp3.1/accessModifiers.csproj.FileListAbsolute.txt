@@ -1,0 +1,14 @@
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.exe
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.deps.json
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.runtimeconfig.json
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.runtimeconfig.dev.json
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.dll
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\bin\Debug\netcoreapp3.1\accessModifiers.pdb
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.csproj.AssemblyReference.cache
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.AssemblyInfoInputs.cache
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.AssemblyInfo.cs
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.dll
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.pdb
+C:\Users\HardSoft\source\repos\accessModifiers\accessModifiers\obj\Debug\netcoreapp3.1\accessModifiers.genruntimeconfig.cache
